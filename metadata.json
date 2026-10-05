@@ -1,0 +1,8 @@
+{
+  "name": "EnamelCook LIMS - R&D Laboratory Management System",
+  "description": "Enterprise Laboratory Information Management System (LIMS) for Cookware and Enamel Coating Research & Development",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
